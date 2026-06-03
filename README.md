@@ -20,7 +20,8 @@ WiFi-based sensing has aroused immense attention as numerous studies have made s
 
 * Download Widar3.0 dataset: http://tns.thss.tsinghua.edu.cn/widar3.0/
 * Download ARIL dataset: https://github.com/geekfeiw/ARIL
-* Download CSIDA dataset: https://pan.baidu.com/s/1Teb8hVWDxhOw0aIoVnS7Qw Password:lwp6 
+* Download CSIDA dataset: ~~https://pan.baidu.com/s/1Teb8hVWDxhOw0aIoVnS7Qw Password:lwp6~~
+* Complete version of the CSIDA dataset: https://pan.baidu.com/s/1iQz5HYDbEEJ1IxnCYxfmAw Password: vkj9
 
 
 ### Train and Test the model
